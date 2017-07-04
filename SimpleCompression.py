@@ -5,7 +5,7 @@
 # times they repeat.
 # ex: aabcccccaaa becomes a2b1c5a3
 # if the compressed string is longer than the input string, the original string is returned.
-# 
+
 def simpleCompress(string):
    c = ''
    count = 0
